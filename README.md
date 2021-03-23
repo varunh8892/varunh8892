@@ -1,6 +1,6 @@
 - 👋 Hi, I’m varun
 - 👀 I’m interested in software test automation and cloud computing 
-- 🌱 I’m currently learning Azure DevOps , Data structures and Microservices testing
+- 🌱 I’m currently learning Azure DevOps , Data Structures and Microservices testing
 - 💞️ I’m looking to collaborate on latest technologies in test automation and utilizing cloud plaforms in test automation 
 - 📫 How to reach me : varunh8892@gmail.com | #352-433-9533
 
